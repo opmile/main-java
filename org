@@ -1,0 +1,37 @@
+introducao-java/
+│
+├── introdução/
+│   ├── primeiro_comando/
+│   ├── tipos_primitivos/
+│   ├── Strings_como_classe/
+│   ├── operações_matemáticas/
+│   ├── convenções_de_código/
+│   ├── mais_sobre_variáveis/
+│   ├── comparação_de_Strings/
+│   ├── método_formatação/
+│   ├── casting/
+│   ├── switch_case/
+│   ├── funcinamento_da_memória/
+│
+├── classes-lbs-uteis/
+│   ├── classe_Scanner/
+│   ├── classe_Random/
+│   ├── classes_Wrapper/
+│   ├── classes_Wrapper/
+│   ├── usando_pacotes/
+│
+├── sobre-arrays-e-iteracao/
+│   ├── loops_for_while_do-while/
+│   ├── introdução-à-arrays/
+│   ├── laço-for-each/
+│   ├── break-continue/
+│   ├── arrays-multidimensionais/
+│
+├── métodos/
+│   ├── introdução_a_métodos/
+│   ├── sobre_construtores/
+│   ├── static/
+│   ├── void/
+│   ├── exerc/
+│
+└── README.md
