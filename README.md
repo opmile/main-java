@@ -1,2 +1,2 @@
 # main-java
-anotações de estudos de java
+estudos de java
