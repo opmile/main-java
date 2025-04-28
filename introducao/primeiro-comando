@@ -1,0 +1,25 @@
+public class Main {
+  public static void main(String[] args) {
+  
+  }
+}
+
+um código fonte Java sempre contempla a declaração de uma classe, nesse caso, temos a declaração da classe Main
+a classe Main tem o objetivo de rodar a aplicação Java. entenda uma aplicação Java como a comunicação entre objetos
+
+rodando uma aplicação (muito) simples:
+
+public class Soma {
+  public int calcularSoma(int a, int b) {
+    return a + b;
+  }
+}
+
+public class Main {
+  public static void main(String[] args) {
+    Soma soma = new Soma();
+    int resultado = soma.calcularSoma(1, 2);
+
+    System.out.println(resultado);
+  }
+}
